@@ -18,3 +18,6 @@ python aselmdb2xyz_batch.py `
   --db-dir . `
   --db-col db_file --idx-col row_id `
   --out mexen_candidates.extxyz
+
+更詳細流程請參考：
+https://docs.google.com/document/d/1v0iHsMGLg_4yhDJJlLSraoSsWQzci0rfYhUs8rXh79Y/edit?usp=sharing
